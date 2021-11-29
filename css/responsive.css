@@ -1,0 +1,65 @@
+/* header responsive*/
+@media (max-width: 768px) {
+    .main_navigation{
+        display: none;
+    }
+    .burger-icon{
+        display: block;
+    }
+} 
+/* Responsive of the first section */
+@media (max-width: 768px) {
+    .section1{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .main-box1{
+        margin-left:  10px;
+    }
+    .text1{
+        flex-direction: column;
+        align-items: center;
+    }
+    .par1{
+        flex-direction: column;
+        align-items: center;
+    }
+    .round_box{
+        flex-direction: column;
+        align-items: center;
+
+    }
+    .main_box2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .main_photo{
+        flex-direction: column;
+        align-items: center;
+    }
+    .icon1{
+        display: flex;
+        align-items: center;
+    }
+}
+/* Responsive of the second section */
+
+@media (max-width: 768){
+    .main_block{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+}
