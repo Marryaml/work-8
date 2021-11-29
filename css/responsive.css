@@ -69,12 +69,13 @@
     .big_box{
         flex-wrap: wrap;
         align-items: center;
+        
     }
     .small_box{
         flex-direction: column;
         align-items: center;
     }
-    
+
 
 
 

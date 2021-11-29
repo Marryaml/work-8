@@ -1,8 +1,5 @@
 /* Heder */
-body{
-    max-width: 1024px;
-    width: 100%;
-}
+
 .header-box{
     display: -webkit-box;
     display: -ms-flexbox;
