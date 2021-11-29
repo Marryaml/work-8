@@ -12,6 +12,7 @@
     .section1{
         flex-direction: column;
         align-items: center;
+        width: 100%;
     }
 
     .main-box1{
@@ -50,8 +51,40 @@
         flex-direction: column;
         align-items: center;
     }
+    .title1{
+        flex-direction: column;
+        align-items: center;
+    }
+    .title2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .par2{
+        flex-direction: column;
+        align-items: ;
+    }
+/* responsive of the third section */
 
+@media (max-width: 768){
+    .big_box{
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .small_box{
+        flex-direction: column;
+        align-items: center;
+    }
     
+
+
+
+
+}
+
+
+
+
+
 
 
 
